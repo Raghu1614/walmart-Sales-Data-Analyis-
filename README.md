@@ -10,8 +10,43 @@ The main goal of this project is to obtain insight into Walmart's sales data toÂ
 This DataSet was taken from Kaggle Walmart Sales Forecasting Competition.This data Contains  17 Columns and 1000 rows of sales Transaction, customer details, product details, city, branch .
 
 
-ColumnDescriptioninvoice_id      Invoice of the sales madebranchBranch at which sales were madecityThe location of the branch    customer_type   The type of the customergenderGender of the customer making purchaseproduct_line    Product line of the product soleunit_priceThe price of each productquantityquantityVATThe amount of tax on the purchasetotalThe total cost of the purchasedateThe date on which the purchase was madetimeThe time at which the purchase was madepayment_method  The total amount paidcogsCost Of Goods soldgross_margin_
-percentageGross margin percentagegross_income    Gross Incomerating          Rating
+Column                        Description
+invoice_id      
+Invoice of the sales made
+branch
+Branch at which sales were made
+city
+The location of the branch    
+customer_type   
+The type of the customer
+gender
+Gender of the customer making purchase
+product_line    
+Product line of the product sole
+unit_price
+The price of each product
+quantity
+quantity
+VAT
+The amount of tax on the purchase
+total
+The total cost of the purchase
+date
+The date on which the purchase was made
+time
+The time at which the purchase was made
+payment_method  
+The total amount paid
+cogs
+Cost Of Goods sold
+gross_margin_
+percentage
+Gross margin percentage
+gross_income    
+Gross Income
+rating          
+Rating
+
 
 ## Analysis 
 TYPE OF ANALYSIS
